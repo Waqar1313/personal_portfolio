@@ -1,0 +1,94 @@
+@import "tailwindcss";
+
+:root {
+	/* Colors */
+	--color-bg: 248 250 252;
+	--color-surface: 255 255 255;
+	--color-text: 15 23 42;
+	--color-muted: 100 116 139;
+	--color-primary: 37 99 235;
+	--color-border: 226 232 240;
+
+	/* Spacing */
+	--space-xs: 0.5rem;
+	--space-sm: 0.75rem;
+	--space-md: 1rem;
+	--space-lg: 1.5rem;
+	--space-xl: 2.5rem;
+
+	/* Radius */
+	--radius-sm: 0.375rem;
+	--radius-md: 0.75rem;
+	--radius-lg: 1rem;
+
+	/* Typography */
+	--font-body: Arial, Helvetica, sans-serif;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	background: var(--color-bg);
+	color: var(--color-text);
+	font-family: var(--font-body);
+}
+
+@keyframes fadeIn {
+	from { opacity: 0; transform: translateY(20px); }
+	to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fadeIn {
+	animation: fadeIn 0.6s ease forwards;
+	opacity: 0;
+}
+
+@keyframes floating {
+	0% { transform: translateY(0) rotate(0deg); }
+	50% { transform: translateY(-10px) rotate(5deg); }
+	100% { transform: translateY(0) rotate(0deg); }
+}
+
+.animate-floating {
+	animation: floating 6s ease-in-out infinite;
+}
+
+@keyframes floating-slow {
+	0% { transform: translateY(0) rotate(0deg); }
+	50% { transform: translateY(-6px) rotate(3deg); }
+	100% { transform: translateY(0) rotate(0deg); }
+}
+
+@keyframes floating-fast {
+	0% { transform: translateY(0) rotate(0deg); }
+	50% { transform: translateY(-10px) rotate(5deg); }
+	100% { transform: translateY(0) rotate(0deg); }
+}
+
+.animate-floating-slow {
+	animation: floating-slow 6s ease-in-out infinite;
+}
+
+.animate-floating-fast {
+	animation: floating-fast 4s ease-in-out infinite;
+}
+
+@keyframes gradientSlow {
+	0% { filter: hue-rotate(0deg); }
+	100% { filter: hue-rotate(360deg); }
+}
+
+.animate-gradientSlow {
+	animation: gradientSlow 80s linear infinite;
+}
+
+@keyframes linePulseFast {
+	0% { stroke-dashoffset: 0; opacity: 0.2; }
+	100% { stroke-dashoffset: -200; opacity: 1; }
+}
+
+.animate-linePulseFast {
+	animation: linePulseFast 1.6s linear infinite;
+}

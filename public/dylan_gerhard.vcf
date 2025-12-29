@@ -1,0 +1,27 @@
+BEGIN:VCARD
+VERSION:4.0
+
+FN:Dylan Gerhard
+N:Gerhard;Dylan;;;
+NICKNAME:Dylan
+
+ADR;TYPE=HOME:;;;;Orlando;FL;USA
+LABEL;TYPE=HOME:Orlando, FL\n🇺🇸 USA
+TZ:America/New_York
+
+ORG:L3Harris Technologies Inc.;Space & Airborne Systems
+TITLE:Software Engineer
+ROLE:Intern
+
+TEL;TYPE=CELL,HOME,VOICE:+14079007397
+IMPP:tel:+14079007397
+EMAIL:contact@dylangerhard.com
+X-SOCIALPROFILE;TYPE=LinkedIn:https://www.linkedin.com/in/dylan-gerhard/
+
+URL:https://www.dylangerhard.com
+PHOTO;VALUE=URI:https://www.dylangerhard.com/profile.png
+
+CATEGORIES:Software Engineer,Web Developer,Programmer
+NOTE:Experienced developer specializing in artificial intelligence, cybersecurity, and cryptology.
+
+END:VCARD
