@@ -11,8 +11,9 @@ interface Project {
 const projects: Project[] = [
 	{
 		title: "Personal Portfolio",
-		description: "You are currently viewing this! It's a modern portfolio website automatically built with GitHub Actions to be hosted on both DropBearz.github.io (GitHub Pages link) and dylangerhard.com simultaneously with Cloudflare as the DNS provider.",
-		skills: ["Next.js", "TypeScript", "TailwindCSS", "React", "Github Actions", "Git"]
+		description: "You are currently viewing this! It's a modern portfolio website with CI/CD so that it automatically deploys to dylangerhard.com with Vercel when any changes are made.",
+		skills: ["Next.js", "TypeScript", "TailwindCSS", "React", "Git"],
+		link: "https://github.com/DropBearz/personal_portfolio"
 	},
 	{
 		title: "Uniconverter",
